@@ -1,0 +1,2 @@
+Quant on tap le numéro on vérifie en background s'il est disponnibe sur whasapp
+puis on met à jour le proriété isInWhatsapp
